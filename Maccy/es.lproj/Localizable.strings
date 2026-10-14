@@ -1,0 +1,14 @@
+"search_placeholder" = "escribir para buscar…";
+"clear_tooltip" = "Limpiar elementos no anclados.\nSeleccionar con ⇧ para limpiar todo.";
+"clear_all_tooltip" = "Limpiar todo.";
+"about_tooltip" = "Leer más sobre la aplicación.";
+"quit_tooltip" = "Cerrar la aplicación.";
+"clear" = "Limpiar";
+"clear_all" = "Limpiar todo";
+"about" = "Acerca de";
+"quit" = "Salir";
+"preferences" = "Preferencias…";
+"clear_alert_message" = "¿Seguro que deseas borrar el historial?";
+"clear_alert_comment" = "Esta acción no puede deshacerse.";
+"clear_alert_cancel" = "Cancelar";
+"clear_alert_confirm" = "Limpiar";

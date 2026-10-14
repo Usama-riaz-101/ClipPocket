@@ -1,0 +1,10 @@
+flowchart TD
+    C["System clipboard"] --> M["Monitor and capture policy"]
+    M --> H["SwiftData history repository"]
+    H --> U["Picker and search"]
+    U --> Q["Queue coordinator"]
+    U --> P["Paste executor"]
+    Q --> P
+    F["Focus and permission gate"] --> P
+    P --> E["Destination editor"]
+    P --> C

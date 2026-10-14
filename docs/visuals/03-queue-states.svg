@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="820" viewBox="0 0 1120 820" role="img">
+<rect x="0" y="0" width="1120" height="820" rx="0" fill="#f8fafc" stroke="none"/>
+<text x="48" y="39" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#315bb3" text-anchor="start">CLIPPOCKET / PROJECT 02 / BLUEPRINT 03</text>
+<text x="48" y="77" font-family="Arial,sans-serif" font-size="29" font-weight="bold" fill="#14243a" text-anchor="start">Queue lifecycle and cancellation</text>
+<text x="48" y="106" font-family="Arial,sans-serif" font-size="14" font-weight="normal" fill="#536175" text-anchor="start">Only explicit queue commands can move the pointer or dispatch an item.</text>
+<polyline points="360,193 440,193" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="440,193 432.10175694298664,188.68517015256216 432.10175694298664,197.31482984743784" fill="#728297"/>
+<text x="365" y="175" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">activate</text>
+<polyline points="710,193 790,193" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="790,193 782.1017569429866,188.68517015256216 782.1017569429866,197.31482984743784" fill="#728297"/>
+<text x="729" y="175" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">next</text>
+<polyline points="920,235 920,375" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="920,375 924.3148298474379,367.10175694298664 915.6851701525621,367.10175694298664" fill="#728297"/>
+<text x="937" y="306" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">dispatched</text>
+<polyline points="790,423 735,423 735,283 645,283 645,235" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="645,235 640.6851701525621,242.89824305701336 649.3148298474379,242.89824305701336" fill="#728297"/>
+<text x="746" y="354" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">more items</text>
+<polyline points="920,470 920,600" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="920,600 924.3148298474379,592.1017569429866 915.6851701525621,592.1017569429866" fill="#728297"/>
+<text x="938" y="538" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">last entry</text>
+<polyline points="440,205 400,205 400,423 360,423" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="360,423 367.89824305701336,427.3148298474378 367.89824305701336,418.6851701525622" fill="#728297"/>
+<text x="238" y="352" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">pause or copy</text>
+<polyline points="225,375 225,300 505,300 505,235" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="505,235 500.6851701525622,242.89824305701336 509.3148298474378,242.89824305701336" fill="#728297"/>
+<text x="240" y="288" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">resume</text>
+<polyline points="225,470 225,600" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="225,600 229.31482984743784,592.1017569429866 220.68517015256216,592.1017569429866" fill="#728297"/>
+<text x="244" y="540" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">cancel</text>
+<polyline points="790,212 760,212 760,333 330,333 330,375" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="330,375 334.3148298474378,367.10175694298664 325.6851701525622,367.10175694298664" fill="#728297"/>
+<text x="570" y="322" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">blocked target</text>
+<rect x="90" y="150" width="270" height="85" rx="12" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="225.0" y="180" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Reviewing</text>
+<text x="225.0" y="205" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Select, reorder and remove</text>
+<rect x="440" y="150" width="270" height="85" rx="12" fill="#f1ecfc" stroke="#7051a0"/>
+<text x="575.0" y="180" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Ready</text>
+<text x="575.0" y="205" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Next item visible; no preload</text>
+<rect x="790" y="150" width="260" height="85" rx="12" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="920.0" y="180" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Dispatching</text>
+<text x="920.0" y="205" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">One transaction in flight</text>
+<rect x="90" y="375" width="270" height="95" rx="12" fill="#fff2dc" stroke="#916318"/>
+<text x="225.0" y="405" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Paused</text>
+<text x="225.0" y="430" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Copy change or invalid target</text>
+<rect x="790" y="375" width="260" height="95" rx="12" fill="#e5f4ee" stroke="#17735d"/>
+<text x="920.0" y="405" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Advance once</text>
+<text x="920.0" y="430" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Valid submitted dispatch</text>
+<rect x="90" y="600" width="270" height="95" rx="12" fill="#fff2dc" stroke="#916318"/>
+<text x="225.0" y="630" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Cancelled</text>
+<text x="225.0" y="655" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Invalidate generation; clear snapshots</text>
+<rect x="790" y="600" width="260" height="95" rx="12" fill="#e5f4ee" stroke="#17735d"/>
+<text x="920.0" y="630" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Completed</text>
+<text x="920.0" y="655" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Release all queue payloads</text>
+<text x="48" y="770" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">Skip advances without dispatch. Normal Command-V does not advance. The queue is cleared on restart.</text>
+<text x="48" y="791" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">Cancel stops unsubmitted events; it cannot undo a paste already posted to another application.</text>
+</svg>

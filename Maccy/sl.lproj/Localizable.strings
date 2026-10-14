@@ -1,0 +1,14 @@
+"clear_alert_message" = "Ali ste prepričani, da želite počistiti zgodovino?";
+"clear_alert_comment" = "Tega dejanja ne morete razveljaviti.";
+"search_placeholder" = "vnesite za iskanje …";
+"clear_all_tooltip" = "Počisti vse elemente.";
+"quit_tooltip" = "Zapri aplikacijo.";
+"clear_all" = "Izbriši vse";
+"about" = "Informacije";
+"preferences" = "Nastavitve…";
+"clear_alert_cancel" = "Prekliči";
+"clear_alert_confirm" = "Izbriši";
+"clear_tooltip" = "Počisti nepripete elemente.\nIzberite z ⇧, da počistite vse.";
+"about_tooltip" = "Preberite več o aplikaciji.";
+"clear" = "Izbriši";
+"quit" = "Zapri";

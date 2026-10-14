@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="820" viewBox="0 0 1120 820" role="img">
+<rect x="0" y="0" width="1120" height="820" rx="0" fill="#f8fafc" stroke="none"/>
+<text x="48" y="39" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#315bb3" text-anchor="start">CLIPPOCKET / PROJECT 02 / BLUEPRINT 05</text>
+<text x="48" y="77" font-family="Arial,sans-serif" font-size="29" font-weight="bold" fill="#14243a" text-anchor="start">Clipboard picker design reference</text>
+<text x="48" y="106" font-family="Arial,sans-serif" font-size="14" font-weight="normal" fill="#536175" text-anchor="start">A compact utility panel with one list scroll region and visible keyboard actions.</text>
+<rect x="340" y="155" width="440" height="520" rx="14" fill="#ffffff" stroke="#d1dae7"/>
+<text x="360" y="186" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="start">ClipPocket</text>
+<text x="622" y="185" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#17735d" text-anchor="start">Recording</text>
+<text x="730" y="185" font-family="Arial,sans-serif" font-size="11" font-weight="normal" fill="#536175" text-anchor="start">Settings</text>
+<rect x="356" y="204" width="408" height="38" rx="7" fill="#f4f7fb" stroke="#d4dce8"/>
+<text x="369" y="229" font-family="Arial,sans-serif" font-size="13" font-weight="normal" fill="#536175" text-anchor="start">Search copied text...</text>
+<rect x="356" y="257" width="62" height="35" rx="7" fill="#315bb3" stroke="#315bb3"/>
+<text x="387.0" y="280" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">All</text>
+<rect x="426" y="257" width="80" height="35" rx="7" fill="#ffffff" stroke="#d4dce8"/>
+<text x="466.0" y="280" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#263952" text-anchor="middle">Pinned</text>
+<rect x="621" y="257" width="142" height="35" rx="7" fill="#ffffff" stroke="#d4dce8"/>
+<text x="692.0" y="280" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#263952" text-anchor="middle">Build queue</text>
+<text x="359" y="317" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#536175" text-anchor="start">PINNED</text>
+<rect x="352" y="329" width="416" height="58" rx="7" fill="#ffffff" stroke="none"/>
+<text x="364" y="354" font-family="Arial,sans-serif" font-size="13" font-weight="normal" fill="#14243a" text-anchor="start">support@example.test</text>
+<text x="364" y="374" font-family="Arial,sans-serif" font-size="11" font-weight="normal" fill="#536175" text-anchor="start">Pinned  |  Email</text>
+<rect x="352" y="393" width="416" height="58" rx="7" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="364" y="418" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#14243a" text-anchor="start">https://example.test/project</text>
+<text x="364" y="438" font-family="Arial,sans-serif" font-size="11" font-weight="normal" fill="#536175" text-anchor="start">Copied 2 minutes ago  |  Link</text>
+<rect x="352" y="457" width="416" height="58" rx="7" fill="#ffffff" stroke="none"/>
+<text x="364" y="482" font-family="Arial,sans-serif" font-size="13" font-weight="normal" fill="#14243a" text-anchor="start">Name: Ayesha Khan</text>
+<text x="364" y="502" font-family="Arial,sans-serif" font-size="11" font-weight="normal" fill="#536175" text-anchor="start">Copied 5 minutes ago  |  Text</text>
+<rect x="352" y="521" width="416" height="58" rx="7" fill="#ffffff" stroke="none"/>
+<text x="364" y="546" font-family="Arial,sans-serif" font-size="13" font-weight="normal" fill="#14243a" text-anchor="start">Email: ayesha@example.test</text>
+<text x="364" y="566" font-family="Arial,sans-serif" font-size="11" font-weight="normal" fill="#536175" text-anchor="start">Copied 6 minutes ago  |  Text</text>
+<rect x="352" y="603" width="416" height="60" rx="7" fill="#f4f7fb" stroke="none"/>
+<text x="359" y="627" font-family="Arial,sans-serif" font-size="11" font-weight="normal" fill="#536175" text-anchor="start">Enter: Paste   |   Esc: Close</text>
+<text x="359" y="648" font-family="Arial,sans-serif" font-size="10.5" font-weight="normal" fill="#536175" text-anchor="start">Plain text available   |   History stays on this Mac</text>
+<text x="62" y="208" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="start">Hierarchy</text>
+<text x="62" y="239" font-family="Arial,sans-serif" font-size="13" font-weight="normal" fill="#536175" text-anchor="start">Search first.</text>
+<text x="62" y="263" font-family="Arial,sans-serif" font-size="13" font-weight="normal" fill="#536175" text-anchor="start">Content before settings.</text>
+<text x="62" y="287" font-family="Arial,sans-serif" font-size="13" font-weight="normal" fill="#536175" text-anchor="start">Clear current action.</text>
+<text x="825" y="208" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="start">Behavior</text>
+<text x="825" y="239" font-family="Arial,sans-serif" font-size="13" font-weight="normal" fill="#536175" text-anchor="start">No paste on hover.</text>
+<text x="825" y="263" font-family="Arial,sans-serif" font-size="13" font-weight="normal" fill="#536175" text-anchor="start">Full payload preserved.</text>
+<text x="825" y="287" font-family="Arial,sans-serif" font-size="13" font-weight="normal" fill="#536175" text-anchor="start">Keyboard focus visible.</text>
+<text x="48" y="770" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">Reference screen uses fictional text. Actual implementation must use native dynamic colors and accessibility.</text>
+<text x="48" y="791" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">Clamp the panel to the active display; reduce list height before clipping search or footer controls.</text>
+</svg>

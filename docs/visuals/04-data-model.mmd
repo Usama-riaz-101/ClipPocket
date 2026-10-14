@@ -1,0 +1,27 @@
+erDiagram
+    HistoryEntry ||--|{ PayloadRepresentation : contains
+    QueueSession ||--|{ QueueEntrySnapshot : orders
+    QueueEntrySnapshot ||--o{ PasteTransaction : dispatches
+    HistoryEntry {
+        UUID id
+        String dedupKey
+        Date lastCopiedAt
+        Bool isPinned
+    }
+    PayloadRepresentation {
+        String typeIdentifier
+        Data bytes
+    }
+    QueueSession {
+        UUID id
+        Int generation
+        Int nextIndex
+    }
+    QueueEntrySnapshot {
+        UUID id
+        Data immutablePayload
+    }
+    PasteTransaction {
+        UUID id
+        String result
+    }

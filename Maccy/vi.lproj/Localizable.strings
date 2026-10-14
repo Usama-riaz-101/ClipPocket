@@ -1,0 +1,14 @@
+"search_placeholder" = "nhập từ khóa để tìm kiếm…";
+"clear_tooltip" = "Xóa các mục chưa được ghim.\nChọn với ⇧ để xóa tất cả.";
+"clear_all_tooltip" = "Xóa tất cả các mục.";
+"about_tooltip" = "Đọc thêm thông tin về ứng dụng.";
+"quit_tooltip" = "Thoát ứng dụng.";
+"clear" = "Dọn dẹp";
+"clear_all" = "Xóa tất cả";
+"about" = "Thông tin";
+"quit" = "Thoát";
+"preferences" = "Thiết lập…";
+"clear_alert_message" = "Bạn có chắc chắn muốn xóa lịch sử không?";
+"clear_alert_comment" = "Bạn không thể hoàn tác hành động này.";
+"clear_alert_cancel" = "Hủy bỏ";
+"clear_alert_confirm" = "Dọn dẹp";

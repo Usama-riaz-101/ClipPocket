@@ -1,0 +1,11 @@
+xcuserdata/
+Maccy.xcodeproj/project.xcworkspace/xcshareddata
+.idea
+.DS_Store
+Maccy/.DS_Store
+build/
+artifacts/
+release/
+DerivedData/
+*.xcuserstate
+*.zip

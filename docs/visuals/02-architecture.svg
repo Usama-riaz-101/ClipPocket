@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="820" viewBox="0 0 1120 820" role="img">
+<rect x="0" y="0" width="1120" height="820" rx="0" fill="#f8fafc" stroke="none"/>
+<text x="48" y="39" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#315bb3" text-anchor="start">CLIPPOCKET / PROJECT 02 / BLUEPRINT 02</text>
+<text x="48" y="77" font-family="Arial,sans-serif" font-size="29" font-weight="bold" fill="#14243a" text-anchor="start">Local application architecture</text>
+<text x="48" y="106" font-family="Arial,sans-serif" font-size="14" font-weight="normal" fill="#536175" text-anchor="start">Every V1 component runs on the Mac. There is no server or AI service.</text>
+<polyline points="375,193 445,193" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="445,193 437.10175694298664,188.68517015256216 437.10175694298664,197.31482984743784" fill="#728297"/>
+<polyline points="725,193 795,193" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="795,193 787.1017569429866,188.68517015256216 787.1017569429866,197.31482984743784" fill="#728297"/>
+<polyline points="925,235 925,345" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="925,345 929.3148298474379,337.10175694298664 920.6851701525621,337.10175694298664" fill="#728297"/>
+<text x="940" y="291" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">search</text>
+<polyline points="795,388 725,388" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="725,388 732.8982430570134,392.3148298474378 732.8982430570134,383.6851701525622" fill="#728297"/>
+<polyline points="585,430 585,585" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="585,585 589.3148298474379,577.1017569429866 580.6851701525621,577.1017569429866" fill="#728297"/>
+<text x="603" y="513" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">Paste Next</text>
+<polyline points="375,633 445,633" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="445,633 437.10175694298664,628.6851701525621 437.10175694298664,637.3148298474379" fill="#728297"/>
+<polyline points="725,633 795,633" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="795,633 787.1017569429866,628.6851701525621 787.1017569429866,637.3148298474379" fill="#728297"/>
+<polyline points="510,585 510,510 55,510 55,193 95,193" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="95,193 87.10175694298664,188.68517015256216 87.10175694298664,197.31482984743784" fill="#728297"/>
+<text x="75" y="493" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">own clipboard write</text>
+<polyline points="1015,430 1015,495 690,495 690,585" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="690,585 694.3148298474379,577.1017569429866 685.6851701525621,577.1017569429866" fill="#728297"/>
+<text x="800" y="482" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">single paste</text>
+<rect x="95" y="150" width="280" height="85" rx="12" fill="#e5f4ee" stroke="#17735d"/>
+<text x="235.0" y="180" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">System clipboard</text>
+<text x="235.0" y="205" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Observe changeCount and payload</text>
+<rect x="445" y="150" width="280" height="85" rx="12" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="585.0" y="180" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Monitor and policy</text>
+<text x="585.0" y="205" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Exclusions, limits and own markers</text>
+<rect x="795" y="150" width="260" height="85" rx="12" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="925.0" y="180" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">History repository</text>
+<text x="925.0" y="205" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">SwiftData; app-local store</text>
+<rect x="795" y="345" width="260" height="85" rx="12" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="925.0" y="375" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Picker and search</text>
+<text x="925.0" y="400" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">History, pins and selected action</text>
+<rect x="445" y="345" width="280" height="85" rx="12" fill="#f1ecfc" stroke="#7051a0"/>
+<text x="585.0" y="375" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Queue coordinator</text>
+<text x="585.0" y="400" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Ordered immutable snapshots</text>
+<rect x="445" y="585" width="280" height="95" rx="12" fill="#e5f4ee" stroke="#17735d"/>
+<text x="585.0" y="615" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Paste executor</text>
+<text x="585.0" y="640" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Serialize; target and clipboard checks</text>
+<rect x="95" y="585" width="280" height="95" rx="12" fill="#fff2dc" stroke="#916318"/>
+<text x="235.0" y="615" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Focus and permission</text>
+<text x="235.0" y="640" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Current target; safe dispatch gate</text>
+<rect x="795" y="585" width="260" height="95" rx="12" fill="#e5f4ee" stroke="#17735d"/>
+<text x="925.0" y="615" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Destination editor</text>
+<text x="925.0" y="640" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Real app compatibility tested</text>
+<text x="48" y="770" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">Normal Command-V is not intercepted to consume queue entries. Queue commands are explicit.</text>
+<text x="48" y="791" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">Future transformations have a separate seam; V1 never uploads or changes original history text.</text>
+</svg>

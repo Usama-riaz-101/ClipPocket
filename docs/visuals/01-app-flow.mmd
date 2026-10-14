@@ -1,0 +1,11 @@
+flowchart TD
+    C["Copy eligible text"] --> H["Local persistent history"]
+    H --> P["Open picker and search"]
+    P --> S["Select one entry"]
+    S --> T{"Direct paste ready?"}
+    T -->|Yes| V["Verify target and dispatch"]
+    T -->|No| O["Copy only and manual paste"]
+    P --> Q["Select items and review order"]
+    Q --> R["Activate queue without pasting"]
+    R --> N["Explicit Paste Next"]
+    N --> V

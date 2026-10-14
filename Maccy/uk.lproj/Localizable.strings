@@ -1,0 +1,14 @@
+"search_placeholder" = "введіть для пошуку…";
+"clear_tooltip" = "Очистити незакріплені елементи.\nВиберіть за допомогою ⇧, щоб видалити всі.";
+"clear_all_tooltip" = "Очистити всі елементи.";
+"about_tooltip" = "Докладніше про додаток.";
+"quit_tooltip" = "Вийти з програми.";
+"clear" = "Очистити";
+"clear_all" = "Очистити все";
+"about" = "Про додаток";
+"quit" = "Вийти";
+"preferences" = "Налаштування…";
+"clear_alert_message" = "Ви впевнені, що бажаєте очистити історію?";
+"clear_alert_comment" = "Ви не можете скасувати цю дію.";
+"clear_alert_cancel" = "Скасувати";
+"clear_alert_confirm" = "Очистити";

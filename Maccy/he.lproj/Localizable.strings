@@ -1,0 +1,14 @@
+"search_placeholder" = "הקלדה כאן תחפש…";
+"clear_tooltip" = "פינוי פריטים שלא ננעצו.\nאפשר לבחור עם ⇧ כדי לפנות הכול.";
+"clear_all_tooltip" = "לפנות את כל הפריטים.";
+"about_tooltip" = "מידע נוסף על היישום.";
+"quit_tooltip" = "יציאה מהיישום.";
+"clear" = "פינוי";
+"clear_all" = "פינוי של הכול";
+"about" = "על אודות";
+"quit" = "יציאה";
+"preferences" = "העדפות…";
+"clear_alert_message" = "לפנות את ההיסטוריה?";
+"clear_alert_comment" = "זו פעולה בלתי הפיכה.";
+"clear_alert_cancel" = "ביטול";
+"clear_alert_confirm" = "פינוי";

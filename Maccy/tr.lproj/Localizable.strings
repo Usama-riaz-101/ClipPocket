@@ -1,0 +1,14 @@
+"search_placeholder" = "aramak için yazın…";
+"clear_tooltip" = "Sabitlenmemiş öğeleri temizle.\nHepsini temizlemek için ⇧ ile seçin.";
+"clear_all_tooltip" = "Tüm ögeleri temizle.";
+"about_tooltip" = "Uygulama hakkında daha fazla bilgi edinin.";
+"quit_tooltip" = "Uygulamadan çık.";
+"clear" = "Temizle";
+"clear_all" = "Hepsini temizle";
+"about" = "Hakkında";
+"quit" = "Çık";
+"preferences" = "Tercihler…";
+"clear_alert_message" = "Geçmişi temizlemek istediğinize emin misiniz?";
+"clear_alert_comment" = "Bu işlemi geri alamazsınız.";
+"clear_alert_cancel" = "İptal";
+"clear_alert_confirm" = "Temizle";

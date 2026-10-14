@@ -1,0 +1,14 @@
+"search_placeholder" = "piš pro hledání…";
+"about_tooltip" = "Přečíst si víc o aplikaci.";
+"clear_all_tooltip" = "Odebrat všechny položky.";
+"clear_all" = "Odebrat všechny";
+"quit" = "Ukončit";
+"preferences" = "Předvolby…";
+"clear_alert_message" = "Opravdu chceš vymazat historii?";
+"clear_alert_comment" = "Tuto akci nemůžeš vrátit.";
+"clear_alert_cancel" = "Zrušit";
+"clear_alert_confirm" = "Vymazat";
+"clear" = "Vyčistit";
+"clear_tooltip" = "Odebrat nepřipnuté položky.\nVyber s ⇧ pro odebrání všech.";
+"quit_tooltip" = "Ukončit aplikaci.";
+"about" = "O aplikaci";

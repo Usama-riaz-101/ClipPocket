@@ -1,0 +1,17 @@
+stateDiagram-v2
+    [*] --> Reviewing
+    Reviewing --> Ready: Activate
+    Ready --> Dispatching: Paste Next
+    Dispatching --> Ready: Dispatched and more entries
+    Dispatching --> Completed: Dispatched last entry
+    Dispatching --> Paused: Target or clipboard invalid
+    Ready --> Paused: Pause or external copy
+    Paused --> Ready: Explicit Resume
+    Ready --> Ready: Skip with more entries
+    Ready --> Completed: Skip last entry
+    Reviewing --> Cancelled: Cancel
+    Ready --> Cancelled: Cancel
+    Paused --> Cancelled: Cancel
+    Dispatching --> Cancelled: Cancel generation
+    Completed --> [*]
+    Cancelled --> [*]

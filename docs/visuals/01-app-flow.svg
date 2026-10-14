@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="820" viewBox="0 0 1120 820" role="img">
+<rect x="0" y="0" width="1120" height="820" rx="0" fill="#f8fafc" stroke="none"/>
+<text x="48" y="39" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#315bb3" text-anchor="start">CLIPPOCKET / PROJECT 02 / BLUEPRINT 01</text>
+<text x="48" y="77" font-family="Arial,sans-serif" font-size="29" font-weight="bold" fill="#14243a" text-anchor="start">Copy retrieve and reuse</text>
+<text x="48" y="106" font-family="Arial,sans-serif" font-size="14" font-weight="normal" fill="#536175" text-anchor="start">Normal retrieval and ordered paste share local history, with explicit user actions.</text>
+<polyline points="350,188 425,188" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="425,188 417.10175694298664,183.68517015256216 417.10175694298664,192.31482984743784" fill="#728297"/>
+<polyline points="695,188 770,188" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="770,188 762.1017569429866,183.68517015256216 762.1017569429866,192.31482984743784" fill="#728297"/>
+<polyline points="905,230 905,340" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="905,340 909.3148298474379,332.10175694298664 900.6851701525621,332.10175694298664" fill="#728297"/>
+<text x="922" y="287" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">one entry</text>
+<polyline points="770,190 740,190 740,285 560,285 560,340" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="560,340 564.3148298474379,332.10175694298664 555.6851701525621,332.10175694298664" fill="#728297"/>
+<text x="575" y="272" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">queue mode</text>
+<polyline points="905,425 905,565" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="905,565 909.3148298474379,557.1017569429866 900.6851701525621,557.1017569429866" fill="#728297"/>
+<text x="922" y="505" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">selected paste</text>
+<polyline points="560,425 560,565" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="560,565 564.3148298474379,557.1017569429866 555.6851701525621,557.1017569429866" fill="#728297"/>
+<text x="579" y="505" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">review then activate</text>
+<polyline points="425,613 350,613" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="350,613 357.89824305701336,617.3148298474379 357.89824305701336,608.6851701525621" fill="#728297"/>
+<polyline points="215,565 215,485 1035,485 1035,565" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="1035,565 1039.3148298474377,557.1017569429866 1030.6851701525623,557.1017569429866" fill="#728297"/>
+<text x="260" y="470" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">validate each explicit action</text>
+<rect x="80" y="145" width="270" height="85" rx="12" fill="#e5f4ee" stroke="#17735d"/>
+<text x="215.0" y="175" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Copy eligible text</text>
+<text x="215.0" y="200" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Local capture; exclusions applied</text>
+<rect x="425" y="145" width="270" height="85" rx="12" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="560.0" y="175" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Persistent history</text>
+<text x="560.0" y="200" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Exact payloads; dedup and pins</text>
+<rect x="770" y="145" width="270" height="85" rx="12" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="905.0" y="175" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Open and search</text>
+<text x="905.0" y="200" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Keyboard-first compact picker</text>
+<rect x="770" y="340" width="270" height="85" rx="12" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="905.0" y="370" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Select one item</text>
+<text x="905.0" y="395" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Copy or direct paste</text>
+<rect x="425" y="340" width="270" height="85" rx="12" fill="#f1ecfc" stroke="#7051a0"/>
+<text x="560.0" y="370" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Select several items</text>
+<text x="560.0" y="395" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Review explicit numbered order</text>
+<rect x="770" y="565" width="270" height="95" rx="12" fill="#e5f4ee" stroke="#17735d"/>
+<text x="905.0" y="595" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Verify focused target</text>
+<text x="905.0" y="620" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Direct paste or copy-only fallback</text>
+<rect x="425" y="565" width="270" height="95" rx="12" fill="#f1ecfc" stroke="#7051a0"/>
+<text x="560.0" y="595" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Activate queue</text>
+<text x="560.0" y="620" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Ready; no automatic paste</text>
+<rect x="80" y="565" width="270" height="95" rx="12" fill="#e5f4ee" stroke="#17735d"/>
+<text x="215.0" y="595" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">Paste Next</text>
+<text x="215.0" y="620" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">One snapshot per explicit action</text>
+<text x="48" y="770" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">The user chooses each destination field. ClipPocket does not navigate or fill a form automatically.</text>
+<text x="48" y="791" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">A new external copy pauses the active queue while eligible history recording continues.</text>
+</svg>

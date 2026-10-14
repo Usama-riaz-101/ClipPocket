@@ -1,0 +1,14 @@
+"search_placeholder" = "tapez pour rechercher…";
+"clear_tooltip" = "Supprimer les éléments non épinglés.\nSélectionnez avec ⇧ pour tout supprimer.";
+"clear_all_tooltip" = "Supprimer toute la liste.";
+"about_tooltip" = "Plus d'informations à propos de l'application.";
+"quit_tooltip" = "Quitter l'application.";
+"clear" = "Supprimer";
+"clear_all" = "Tout supprimer";
+"about" = "À propos";
+"quit" = "Quitter";
+"preferences" = "Préférences…";
+"clear_alert_message" = "Voulez-vous vraiment effacer l'historique ?";
+"clear_alert_comment" = "Vous ne pouvez pas annuler cette action.";
+"clear_alert_cancel" = "Annuler";
+"clear_alert_confirm" = "Supprimer";

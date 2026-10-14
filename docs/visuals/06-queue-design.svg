@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="820" viewBox="0 0 1120 820" role="img">
+<rect x="0" y="0" width="1120" height="820" rx="0" fill="#f8fafc" stroke="none"/>
+<text x="48" y="39" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#315bb3" text-anchor="start">CLIPPOCKET / PROJECT 02 / BLUEPRINT 06</text>
+<text x="48" y="77" font-family="Arial,sans-serif" font-size="29" font-weight="bold" fill="#14243a" text-anchor="start">Queue review and active controls</text>
+<text x="48" y="106" font-family="Arial,sans-serif" font-size="14" font-weight="normal" fill="#536175" text-anchor="start">Selection order is explicit. Activate and Resume do not paste or preload clipboard contents.</text>
+<rect x="80" y="166" width="440" height="505" rx="14" fill="#ffffff" stroke="#d1dae7"/>
+<text x="101" y="200" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#14243a" text-anchor="start">Review queue</text>
+<text x="101" y="226" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">3 items selected. Review the order.</text>
+<rect x="96" y="251" width="408" height="77" rx="8" fill="#f4f7fb" stroke="#d4dce8"/>
+<rect x="109" y="270" width="28" height="28" rx="6" fill="#eaf0ff" stroke="none"/>
+<text x="123" y="289" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#315bb3" text-anchor="middle">1</text>
+<text x="150" y="279" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#14243a" text-anchor="start">Ayesha Khan</text>
+<text x="150" y="302" font-family="Arial,sans-serif" font-size="11" font-weight="normal" fill="#536175" text-anchor="start">Name  |  Move / Remove</text>
+<rect x="96" y="342" width="408" height="77" rx="8" fill="#f4f7fb" stroke="#d4dce8"/>
+<rect x="109" y="361" width="28" height="28" rx="6" fill="#eaf0ff" stroke="none"/>
+<text x="123" y="380" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#315bb3" text-anchor="middle">2</text>
+<text x="150" y="370" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#14243a" text-anchor="start">ayesha@example.test</text>
+<text x="150" y="393" font-family="Arial,sans-serif" font-size="11" font-weight="normal" fill="#536175" text-anchor="start">Email  |  Move / Remove</text>
+<rect x="96" y="433" width="408" height="77" rx="8" fill="#f4f7fb" stroke="#d4dce8"/>
+<rect x="109" y="452" width="28" height="28" rx="6" fill="#eaf0ff" stroke="none"/>
+<text x="123" y="471" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#315bb3" text-anchor="middle">3</text>
+<text x="150" y="461" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#14243a" text-anchor="start">12 Example Street</text>
+<text x="150" y="484" font-family="Arial,sans-serif" font-size="11" font-weight="normal" fill="#536175" text-anchor="start">Address  |  Move / Remove</text>
+<text x="102" y="552" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">Format: Plain text</text>
+<rect x="101" y="586" width="121" height="35" rx="7" fill="#ffffff" stroke="#d4dce8"/>
+<text x="161.5" y="609" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#263952" text-anchor="middle">Back</text>
+<rect x="238" y="586" width="261" height="35" rx="7" fill="#315bb3" stroke="#315bb3"/>
+<text x="368.5" y="609" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">Activate queue</text>
+<text x="102" y="646" font-family="Arial,sans-serif" font-size="10.5" font-weight="normal" fill="#536175" text-anchor="start">Queue order is independent of history recency.</text>
+<rect x="605" y="166" width="435" height="505" rx="14" fill="#ffffff" stroke="#d1dae7"/>
+<text x="627" y="200" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#14243a" text-anchor="start">Queue ready</text>
+<text x="627" y="227" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">3 items remaining</text>
+<rect x="625" y="252" width="395" height="110" rx="9" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="644" y="279" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#315bb3" text-anchor="start">NEXT ITEM</text>
+<text x="644" y="310" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#14243a" text-anchor="start">Ayesha Khan</text>
+<text x="644" y="339" font-family="Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#536175" text-anchor="start">Focus the Name field, then Paste Next.</text>
+<rect x="625" y="390" width="395" height="35" rx="7" fill="#315bb3" stroke="#315bb3"/>
+<text x="822.5" y="413" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">Paste Next</text>
+<rect x="625" y="439" width="119" height="35" rx="7" fill="#ffffff" stroke="#d4dce8"/>
+<text x="684.5" y="462" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#263952" text-anchor="middle">Skip</text>
+<rect x="762" y="439" width="119" height="35" rx="7" fill="#ffffff" stroke="#d4dce8"/>
+<text x="821.5" y="462" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#263952" text-anchor="middle">Pause</text>
+<rect x="899" y="439" width="121" height="35" rx="7" fill="#ffffff" stroke="#d4dce8"/>
+<text x="959.5" y="462" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#263952" text-anchor="middle">Cancel</text>
+<text x="627" y="506" font-family="Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#536175" text-anchor="start">Normal Command-V does not consume this queue.</text>
+<rect x="625" y="536" width="395" height="80" rx="8" fill="#fff2dc" stroke="#ead3ad"/>
+<text x="644" y="563" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#795215" text-anchor="start">If you copy new text, the queue pauses.</text>
+<text x="644" y="591" font-family="Arial,sans-serif" font-size="11" font-weight="normal" fill="#536175" text-anchor="start">Pending items keep their original content and order.</text>
+<text x="627" y="646" font-family="Arial,sans-serif" font-size="10.5" font-weight="normal" fill="#536175" text-anchor="start">Shortcut shown here must reflect user settings.</text>
+<text x="48" y="770" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">Review and active controls are separate native states, shown side by side here for specification clarity.</text>
+<text x="48" y="791" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">Queue state, recording state and Accessibility readiness remain independent. No automatic form navigation.</text>
+</svg>

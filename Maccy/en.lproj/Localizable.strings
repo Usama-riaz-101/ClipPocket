@@ -1,0 +1,14 @@
+"search_placeholder" = "type to search…";
+"clear_tooltip" = "Clear unpinned items.\nSelect with ⇧ to clear all.";
+"clear_all_tooltip" = "Clear all items.";
+"about_tooltip" = "Read more about the application.";
+"quit_tooltip" = "Quit application.";
+"clear" = "Clear";
+"clear_all" = "Clear all";
+"about" = "About";
+"quit" = "Quit";
+"preferences" = "Preferences…";
+"clear_alert_message" = "Are you sure you want to clear the history?";
+"clear_alert_comment" = "You can't undo this action.";
+"clear_alert_cancel" = "Cancel";
+"clear_alert_confirm" = "Clear";

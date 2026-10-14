@@ -1,0 +1,14 @@
+"search_placeholder" = "digite para pesquisar…";
+"about" = "Sobre";
+"preferences" = "Preferências…";
+"clear_all" = "Limpar tudo";
+"clear_all_tooltip" = "Limpar todos os itens.";
+"about_tooltip" = "Ler mais sobre o aplicativo.";
+"clear_alert_confirm" = "Limpar";
+"clear_alert_message" = "Tem certeza de que deseja limpar o histórico?";
+"clear_alert_cancel" = "Cancelar";
+"clear_tooltip" = "Limpar itens não fixados.\nSelecione com ⇧ para limpar tudo.";
+"quit" = "Sair";
+"clear" = "Limpar";
+"clear_alert_comment" = "Você não pode desfazer esta ação.";
+"quit_tooltip" = "Sair do aplicativo.";

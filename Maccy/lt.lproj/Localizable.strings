@@ -1,0 +1,14 @@
+"search_placeholder" = "įveskite paiešką…";
+"about_tooltip" = "Sužinokite daugiau apie programą.";
+"clear" = "Išvalyti";
+"clear_all" = "Išvalyti visus";
+"about" = "Apie";
+"quit" = "Uždaryti";
+"clear_all_tooltip" = "Išvalyti visus elementus.";
+"preferences" = "Parinktys…";
+"clear_alert_message" = "Ar tikrai norite išvalyti istoriją?";
+"clear_alert_comment" = "Šio veiksmo nebus galima atšaukti.";
+"clear_alert_cancel" = "Atšaukti";
+"clear_tooltip" = "Išvalyti neprisegtus elementus.\nPasirinkite su ⇧, kad išvalytumėte visus.";
+"quit_tooltip" = "Uždaryti programą.";
+"clear_alert_confirm" = "Išvalyti";

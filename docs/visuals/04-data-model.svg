@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="820" viewBox="0 0 1120 820" role="img">
+<rect x="0" y="0" width="1120" height="820" rx="0" fill="#f8fafc" stroke="none"/>
+<text x="48" y="39" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#315bb3" text-anchor="start">CLIPPOCKET / PROJECT 02 / BLUEPRINT 04</text>
+<text x="48" y="77" font-family="Arial,sans-serif" font-size="29" font-weight="bold" fill="#14243a" text-anchor="start">Persistent history and temporary queue</text>
+<text x="48" y="106" font-family="Arial,sans-serif" font-size="14" font-weight="normal" fill="#536175" text-anchor="start">Local persistence is separate from in-memory queue snapshots and paste transactions.</text>
+<polyline points="480,237 640,237" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="640,237 632.1017569429866,232.68517015256216 632.1017569429866,241.31482984743784" fill="#728297"/>
+<text x="506" y="218" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">one to many</text>
+<polyline points="290,315 290,500" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="290,500 294.3148298474378,492.10175694298664 285.6851701525622,492.10175694298664" fill="#728297"/>
+<text x="309" y="414" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">explicit snapshot copy</text>
+<polyline points="480,580 640,580" fill="none" stroke="#728297" stroke-width="1.7"/>
+<polygon points="640,580 632.1017569429866,575.6851701525621 632.1017569429866,584.3148298474379" fill="#728297"/>
+<text x="518" y="561" font-family="Arial,sans-serif" font-size="12" font-weight="normal" fill="#536175" text-anchor="start">one action</text>
+<rect x="100" y="165" width="380" height="150" rx="12" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="290.0" y="195" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">HistoryEntry</text>
+<text x="290.0" y="220" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Stable UUID and dedup key</text>
+<text x="290.0" y="240" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Timestamps, pins and bounded preview</text>
+<text x="290.0" y="260" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Stored in ClipPocket SwiftData</text>
+<rect x="640" y="165" width="380" height="150" rx="12" fill="#eaf0ff" stroke="#315bb3"/>
+<text x="830.0" y="195" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">PayloadRepresentation</text>
+<text x="830.0" y="220" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Type identifier and original Data</text>
+<text x="830.0" y="240" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Many payloads for one entry</text>
+<text x="830.0" y="260" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Cascade on entry deletion</text>
+<rect x="100" y="500" width="380" height="155" rx="12" fill="#f1ecfc" stroke="#7051a0"/>
+<text x="290.0" y="530" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">QueueSession and snapshots</text>
+<text x="290.0" y="555" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Session UUID, generation and pointer</text>
+<text x="290.0" y="575" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Immutable copied payloads in chosen order</text>
+<text x="290.0" y="595" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Memory only; cleared on quit/cancel</text>
+<rect x="640" y="500" width="380" height="155" rx="12" fill="#e5f4ee" stroke="#17735d"/>
+<text x="830.0" y="530" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#14243a" text-anchor="middle">PasteTransaction</text>
+<text x="830.0" y="555" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Queue entry ID and target descriptor</text>
+<text x="830.0" y="575" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">Expected changeCount and result</text>
+<text x="830.0" y="595" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="middle">One in-flight action; memory only</text>
+<text x="48" y="770" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">History eviction cannot alter an active queue snapshot. Queue contents are never restored as an armed session.</text>
+<text x="48" y="791" font-family="Arial,sans-serif" font-size="12.5" font-weight="normal" fill="#536175" text-anchor="start">The diagram is a logical schema; SwiftData manages physical tables and versioned migrations.</text>
+</svg>
