@@ -9,6 +9,10 @@
 
 ClipPocket keeps copied text and images close at hand without accounts, cloud sync, tracking, or a server. Press **Shift-Command-V** from any app, search or select an item with the keyboard or mouse, and ClipPocket pastes it back into the field you were using.
 
+## See ClipPocket in action
+
+![ClipPocket clipboard history and instant paste walkthrough](docs/media/clippocket-walkthrough.gif)
+
 ## Download
 
 ### [Download the latest ClipPocket app](https://github.com/Usama-riaz-101/ClipPocket/releases/latest/download/ClipPocket-macOS.zip)
